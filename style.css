@@ -1,0 +1,22 @@
+/* Universal Selectors */
+
+/* *{
+    color: red;
+} */
+
+
+/* Type Selectors */
+/* Single Type Selector*/
+
+/* span{
+    color: red;
+} */
+
+/* h1{
+    color: red;
+} */
+
+/* Multiple Type Selectors */
+h1,span{
+    color: red;
+}
