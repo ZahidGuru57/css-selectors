@@ -17,6 +17,43 @@
 } */
 
 /* Multiple Type Selectors */
-h1,span{
+
+/* h1,span{
+    color: red;
+} */
+
+/* CLASS SELECTOR */
+
+/* .interest{
+  color: red;
+} */
+
+/* ID SELECTOR */
+
+/* #my-sapn{
+  color: red;
+} */
+
+/* CHILD SELECTORS */
+
+/* span > p{
+    color: red;
+} */
+
+/* DESCENDANT SELECTORS */
+
+/* div p{
+    color: red;
+} */
+
+/* ADJACENT SIBLING SELECTORS */
+
+/* h1+p{
+    color: red;
+} */
+
+/* GENERAL SIBLING SELECTORS */
+
+h1~p{
     color: red;
 }
